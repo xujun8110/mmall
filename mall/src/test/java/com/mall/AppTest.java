@@ -1,4 +1,4 @@
-package com.mall.mall;
+package com.mall;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,14 +1,14 @@
 package com.controller;
 
 /**
- * Hello world!
+ * controller
+ * 
+ * @author dirk
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-        System.out.println("first project");
-    }
+public class App {
+	public static void main(String[] args) {
+		System.out.println("mmall project start!");
+
+	}
 }
