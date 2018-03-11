@@ -1,4 +1,4 @@
-package com.mall.mall;
+package com.controller;
 
 /**
  * Hello world!
